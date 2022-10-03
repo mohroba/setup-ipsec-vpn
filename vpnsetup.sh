@@ -24,7 +24,7 @@
 # - DO NOT use these special characters within values: \ " '
 
 YOUR_IPSEC_PSK=''
-YOUR_USERNAME=''
+YOUR_USERNAME=' '
 YOUR_PASSWORD=''
 
 # VPN client setup: https://vpnsetup.net/clients
